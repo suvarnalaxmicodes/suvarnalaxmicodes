@@ -10,11 +10,13 @@ Welcome to my GitHub profile! I'm Suvarnalaxmi, and I’m passionate about codin
 - ⚡ Fun fact: I'm always excited to explore new technologies and solve interesting problems. I love learning through building real-world projects and contributing to the open-source community.
 
 ## About Me
-I am a student currently pursuing my studies and simultaneously doing an internship in **React Native Mobile Application Development**. I am constantly learning and improving my skills, and I enjoy working on both mobile and web applications. My journey in technology is fueled by curiosity and a passion for innovation. 
+I am a React Native Mobile Application Developer in a company. I am constantly learning and improving my skills, and I enjoy working on both mobile and web applications. My journey in technology is fueled by curiosity and a passion for innovation. 
 
 ### Technologies I'm Working With:
 - **React Native** (Mobile App Development)
 - **JavaScript** (Frontend Development)
+- **Android**
+- **iOS**
 
 ### What I’m Looking For:
 I’m eager to contribute to **open source projects** and collaborate with others to create awesome applications and innovative solutions. I’m always open to new opportunities that allow me to learn and grow.
